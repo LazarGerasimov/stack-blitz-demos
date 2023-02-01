@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+section {
+  height: 50vh;
+}
+
+main div:nth-child(1) {
+  background-color: pink;
+}
+
+main div:nth-child(2) {
+  background-color: lightblue;
+}
+
+
